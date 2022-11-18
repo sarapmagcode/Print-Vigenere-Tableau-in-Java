@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class MyClass {
+public class NaiveApproach {
     public static void main(String args[]) {
         int n = 26;
         char[][] mat = new char[n][n];
